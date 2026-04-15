@@ -8,6 +8,6 @@ I have done my Bachelor's in Information Technology from Heritage Institute of T
 Actively focusing on ML , Deep Learning , RAG  and Agentic AI.
 Area of interest Vision models.
 
-email id : rajkamalg356@gmail.com
+email id : gupta2.rajkamal2@gmail.com
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
